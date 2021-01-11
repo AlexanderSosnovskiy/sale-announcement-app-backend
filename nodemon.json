@@ -1,0 +1,10 @@
+{
+    "restartable": "rs",
+    "watch": "src",
+    "ignore": [".git", "node_modules"],
+    "verbose": true,
+    "execMap": {
+        "js": "babel-node"
+    },
+    "ext": ".js, .json"
+  }
