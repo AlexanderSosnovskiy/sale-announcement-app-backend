@@ -6,12 +6,12 @@
 ```npm install``` or
 ```yarn```
 
-2. Install MySQL server, client if you don't have it. To run mysqlDB:
+2. Install MySQL server, client if you don't have it. To run MySQL server:
 ```mysql -h localhost -u root -p```
 
 3. In the root run the following command:
-```npm run start``` or 
-```yarn start```
+```npm run serve``` or 
+```yarn serve```
 
 The server will run on port 3000.
 
