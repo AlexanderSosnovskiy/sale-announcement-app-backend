@@ -2,7 +2,7 @@
 
 ## Development:
 
-1. In the root, server and client folders run:
+1. In the root folder run:
 ```npm install``` or
 ```yarn```
 
