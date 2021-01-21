@@ -3,8 +3,6 @@
     "watch": "src",
     "ignore": [".git", "node_modules"],
     "verbose": true,
-    "execMap": {
-        "js": "babel-node"
-    },
+    "exec": "babel-node ./src/app.js",
     "ext": ".js, .json"
   }
